@@ -1,0 +1,47 @@
+{
+ "name": "msm-queries",
+ "children": [
+  {
+   "title": "Must See Movies — Queries",
+   "id": "b5b94eaf-aabc-94a1-96cf-591083fd12a2",
+   "pageId": "b5b94eaf-aabc-94a1-96cf-591083fd12a2",
+   "type": "page"
+  },
+  {
+   "title": "Two important notes about `rails console`",
+   "id": "7876b5ac-aec3-27ea-879a-706bc7790675",
+   "pageId": "7876b5ac-aec3-27ea-879a-706bc7790675",
+   "type": "page"
+  },
+  {
+   "id": "45b36158-0ad0-0172-45a1-43dea1e1db9c",
+   "title": "Exploring the tables",
+   "pageId": "be44fea8-5057-b77f-dfdb-808794647de7",
+   "type": "page"
+  },
+  {
+   "id": "afe7800e-c413-efeb-cde5-bc1c4cb0a1c7",
+   "title": "CRUD some records manually",
+   "pageId": "a0c8c0de-f5fb-5911-1109-5185a9301158",
+   "type": "page"
+  },
+  {
+   "id": "bf24b23a-6d45-06f6-3d1b-da818b56ccb1",
+   "title": "Hydrate with dummy data automatically",
+   "pageId": "345c934e-67ca-5bf7-ccfc-49b9ec0e258c",
+   "type": "page"
+  },
+  {
+   "id": "813b23c0-031d-8c65-84bd-c27ea612752f",
+   "title": "Appetizer queries",
+   "pageId": "1dd14b16-8437-3391-232d-86ec0b0128fe",
+   "type": "page"
+  },
+  {
+   "id": "e95df517-8738-4e2e-e05b-f42ebcf26cc2",
+   "title": "Your tasks",
+   "pageId": "9f0cdd91-a52f-1b08-ba0b-000a079ba8ce",
+   "type": "page"
+  }
+ ]
+}

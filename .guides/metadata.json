@@ -1,0 +1,100 @@
+{
+ "sections": [
+  {
+   "id": "b5b94eaf-aabc-94a1-96cf-591083fd12a2",
+   "title": "Must See Movies — Queries",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Must-See-Movies---Queries-b5b9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7876b5ac-aec3-27ea-879a-706bc7790675",
+   "title": "Two important notes about `rails console`",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Two-important-notes-about--rails-console--7876.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "be44fea8-5057-b77f-dfdb-808794647de7",
+   "title": "Exploring the tables",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exploring-the-tables-be44.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a0c8c0de-f5fb-5911-1109-5185a9301158",
+   "title": "CRUD some records manually",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/CRUD-some-records-manually-a0c8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "345c934e-67ca-5bf7-ccfc-49b9ec0e258c",
+   "title": "Hydrate with dummy data automatically",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hydrate-with-dummy-data-automatically-345c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1dd14b16-8437-3391-232d-86ec0b0128fe",
+   "title": "Appetizer queries",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Appetizer-queries-1dd1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9f0cdd91-a52f-1b08-ba0b-000a079ba8ce",
+   "title": "Your tasks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Your-tasks-9f0c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}
